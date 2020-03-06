@@ -1,5 +1,5 @@
 # Automation-eBay
-This proyect is an automated shoe search on eBay
+This project is an automated test of a shoe search on eBay
 
 Follow these instructions to run this test.
 
